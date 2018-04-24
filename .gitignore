@@ -99,3 +99,5 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+data/glove/glove.6B.50d.txt
